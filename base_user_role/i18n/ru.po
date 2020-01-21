@@ -23,43 +23,43 @@ msgstr ""
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__model_access
 msgid "Access Controls"
-msgstr ""
+msgstr "Управление доступом"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__menu_access
 msgid "Access Menu"
-msgstr ""
+msgstr "Меню доступа"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__category_id
 msgid "Application"
-msgstr ""
+msgstr "Приложение"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__group_category_id
 msgid "Associated category"
-msgstr ""
+msgstr "Связанная категория"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__group_id
 msgid "Associated group"
-msgstr ""
+msgstr "Связанная группа"
 
 #. module: base_user_role
 #: model:ir.model.fields,help:base_user_role.field_res_users_role__group_category_id
 msgid "Associated group's category"
-msgstr ""
+msgstr "Связанная категория группы"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__color
 msgid "Color Index"
-msgstr ""
+msgstr "Цветовая палитра"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__create_uid
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__create_uid
 msgid "Created by"
-msgstr "Создано"
+msgstr "Создал"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__create_date
@@ -71,32 +71,32 @@ msgstr "Создан"
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__display_name
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__display_name
 msgid "Display Name"
-msgstr ""
+msgstr "Имя"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__is_enabled
 msgid "Enabled"
-msgstr ""
+msgstr "Активна"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__date_from
 msgid "From"
-msgstr ""
+msgstr "От"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__full_name
 msgid "Group Name"
-msgstr ""
+msgstr "Наименование группы"
 
 #. module: base_user_role
 #: model:ir.model.fields,help:base_user_role.field_res_users_role__share
 msgid "Group created to set access rights for sharing data with some users."
-msgstr ""
+msgstr "Создана группа для установки прав доступа, чтобы обмениваться данными с другими пользователями."
 
 #. module: base_user_role
 #: model_terms:ir.ui.view,arch_db:base_user_role.view_res_users_role_form
 msgid "Groups"
-msgstr ""
+msgstr "Группы"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__id
@@ -107,25 +107,25 @@ msgstr "ID"
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__implied_ids
 msgid "Inherits"
-msgstr ""
+msgstr "Наследует"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__comment
 #: model_terms:ir.ui.view,arch_db:base_user_role.view_res_users_role_form
 msgid "Internal Notes"
-msgstr ""
+msgstr "Внутренние заметки"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role____last_update
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line____last_update
 msgid "Last Modified on"
-msgstr ""
+msgstr "Последнее изменение"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__write_uid
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__write_uid
 msgid "Last Updated by"
-msgstr "Последний раз обновлено"
+msgstr "Последний раз обновил"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__write_date
@@ -141,13 +141,13 @@ msgstr "Название"
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__role_id
 msgid "Role"
-msgstr ""
+msgstr "Роль"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users__role_line_ids
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__line_ids
 msgid "Role lines"
-msgstr ""
+msgstr "Линии роли"
 
 #. module: base_user_role
 #: model:ir.actions.act_window,name:base_user_role.action_res_users_role_tree
@@ -156,34 +156,34 @@ msgstr ""
 #: model_terms:ir.ui.view,arch_db:base_user_role.view_res_users_form_inherit
 #: model_terms:ir.ui.view,arch_db:base_user_role.view_res_users_role_search
 msgid "Roles"
-msgstr ""
+msgstr "Роли"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__rule_groups
 msgid "Rules"
-msgstr ""
+msgstr "Правила"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__share
 msgid "Share Group"
-msgstr ""
+msgstr "Группа совместного доступа"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__date_to
 msgid "To"
-msgstr ""
+msgstr "До"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__trans_implied_ids
 msgid "Transitively inherits"
-msgstr ""
+msgstr "Переходящие наследования"
 
 #. module: base_user_role
 #: model:ir.actions.server,name:base_user_role.cron_update_users_ir_actions_server
 #: model:ir.cron,cron_name:base_user_role.cron_update_users
 #: model:ir.cron,name:base_user_role.cron_update_users
 msgid "Update user roles"
-msgstr ""
+msgstr "Обновление пользовательских ролей"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role_line__user_id
@@ -193,36 +193,36 @@ msgstr "Пользователь"
 #. module: base_user_role
 #: model:ir.model,name:base_user_role.model_res_users_role
 msgid "User role"
-msgstr ""
+msgstr "Роль пользователя"
 
 #. module: base_user_role
 #: model:ir.module.category,name:base_user_role.ir_module_category_role
 msgid "User roles"
-msgstr ""
+msgstr "Роли пользователя"
 
 #. module: base_user_role
 #: model:ir.model,name:base_user_role.model_res_users
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__users
 #: model_terms:ir.ui.view,arch_db:base_user_role.view_res_users_role_form
 msgid "Users"
-msgstr ""
+msgstr "Пользователи"
 
 #. module: base_user_role
 #: model:ir.model,name:base_user_role.model_res_users_role_line
 msgid "Users associated to a role"
-msgstr ""
+msgstr "Пользователи, имеющие данную роль"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__user_ids
 msgid "Users list"
-msgstr ""
+msgstr "Список пользователей"
 
 #. module: base_user_role
 #: model:ir.model.fields,help:base_user_role.field_res_users_role__implied_ids
 msgid "Users of this group automatically inherit those groups"
-msgstr ""
+msgstr "Пользователи этой группы автоматически наследуют эти группы"
 
 #. module: base_user_role
 #: model:ir.model.fields,field_description:base_user_role.field_res_users_role__view_access
 msgid "Views"
-msgstr ""
+msgstr "Виды"
